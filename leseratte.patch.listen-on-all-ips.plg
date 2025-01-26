@@ -3,7 +3,7 @@
 <!ENTITY name "leseratte.patch.listen-on-all-ips">
 <!ENTITY author "Leseratte10">
 <!ENTITY version "2025.01.26">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/Leseratte10/unraid-plugin-bind-all/master/leseratte.patch.listen-on-all-ips.plg">
+<!ENTITY pluginURL "https://raw.githubusercontent.com/johan12345/unraid-plugin-bind-all/refs/heads/master/leseratte.patch.listen-on-all-ips.plg">
 ]>
 <PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="bug" min="6.12.0" max="6.12.15" support="https://github.com/unraid/webgui/issues/1567">
 
